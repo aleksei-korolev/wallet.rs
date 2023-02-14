@@ -1,5 +1,10 @@
 # Changelog
 
+## \[2.0.3-rc.21]
+
+- Make stopBackgroundSync() faster.
+  - [2874da54](https://github.com/iotaledger/wallet.rs/commit/2874da54a63ce22b7c835410569cc24e0378020a) Stop stop_background_syncing faster ([#1817](https://github.com/iotaledger/wallet.rs/pull/1817)) on 2023-02-08
+
 ## \[2.0.3-rc.20]
 
 - Make `AccountManager.destroy()` async;
